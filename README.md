@@ -1,6 +1,8 @@
 # CPSC39_BHGameProject
 This is a short bullet hell / rhythm game I made for my final project in CPSC 39 at Merced College. The project was written in C# using Windows Forms for rendering, because I was a clown who hadn't learned how to use OpenGL yet.
 
+![image9](images/image9.png)
+
 Original Project Report:
 
     This program is a short rhythm game made using a very simple and incredibly janky “game engine” that I cobbled together in the past three days. Everything in this project had to be narrowed in scope because of how ambitious my project proposal was, but it all works. The game is a bullet hell where the player is a blue circle dodging red circles shot at them from turrets rotating around an even larger circle, and lasts about 40 seconds before the hardcoded turret spawns run out and all you’re left with is the music. The player can move with the W, A, S, and D keys. 
